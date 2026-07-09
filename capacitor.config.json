@@ -1,0 +1,6 @@
+{
+  "appId": "com.mrd1030.microoracle",
+  "appName": "Micro Oracle",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
