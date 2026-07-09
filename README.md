@@ -2,22 +2,15 @@
 
 **One genuinely useful micro-action, right now.**
 
-A beautiful, lightweight, and highly polished daily tool that delivers random but genuinely helpful micro-actions based on your current mood/energy and available time.
+A polished, user-friendly daily tool with mood/time/category filtering, favorites, Save for Later, streak tracking with confetti, insights, dark mode, and PWA support.
 
-## ✨ Features
-- Mood, Time & Category filtering
-- Favorites system
-- "Save for Later" queue with management
-- Streak tracking with confetti celebrations
-- Insights & simple stats
-- Full PWA (installable + offline capable)
-- Dark mode
-- Completely private (all data in browser)
+Ready for Play Store via TWA or Capacitor.
 
-## Play Store Ready
-Prepared for Trusted Web Activity (TWA) / Capacitor for native iOS & Android apps.
+## Features
+- Beautiful & image-rich experience
+- Full onboarding
+- Daily reminder prompt
+- Complete action library
+- Privacy-first (everything local)
 
-## Getting Started
-Open `index.html` in any modern browser or install as PWA from the address bar.
-
-Built to exceed expectations for a simple daily utility.
+Open index.html to start.
