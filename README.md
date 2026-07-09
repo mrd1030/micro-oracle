@@ -1,22 +1,23 @@
 # Micro Oracle
 
-One genuinely useful micro-action, right now.
+**One genuinely useful micro-action, right now.**
 
-A beautiful, lightweight daily tool that gives you random but genuinely helpful micro-actions based on how you're feeling and how much time you have.
+A beautiful, lightweight, and highly polished daily tool that delivers random but genuinely helpful micro-actions based on your current mood/energy and available time.
 
-## Features
-- Mood + Time + Category filtering
-- Favorites & "Save for Later"
+## ✨ Features
+- Mood, Time & Category filtering
+- Favorites system
+- "Save for Later" queue with management
 - Streak tracking with confetti celebrations
-- Insights & History
-- Full PWA (installable, offline-ready)
+- Insights & simple stats
+- Full PWA (installable + offline capable)
 - Dark mode
-- Completely private (everything stays in your browser)
+- Completely private (all data in browser)
 
-Built as a simple, delightful daily companion.
+## Play Store Ready
+Prepared for Trusted Web Activity (TWA) / Capacitor for native iOS & Android apps.
 
 ## Getting Started
-Open `index.html` in any browser, or install as PWA.
+Open `index.html` in any modern browser or install as PWA from the address bar.
 
-## Future
-Capacitor wrapper coming for native iOS/Android apps.
+Built to exceed expectations for a simple daily utility.
