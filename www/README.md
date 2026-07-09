@@ -1,3 +1,3 @@
-This folder should contain the production build of the PWA (index.html, manifest.json, sw.js, icons/).
+Production build folder for Capacitor.
 
-For Capacitor, copy your final web files here before running `npx cap sync`.
+Copy the final `index.html`, `manifest.json`, `sw.js`, and `icons/` into this folder before running `npx cap sync`.
