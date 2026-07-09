@@ -5,23 +5,19 @@
 ## Advanced Features
 - Rate actions (1-5 stars)
 - Add notes when logging wins
-- Streak Freeze (protect your streak once per week)
+- Edit & Delete history entries
+- Streak Freeze protection
 - Daily goal tracking
-- Achievements & badges
+- Achievements
 - Weekly summary with charts
-- Export with notes and ratings
+- Calendar view
+- Export as JSON or CSV (with notes & ratings)
+- Theme customization
+- Undo last log
 
 ## Getting Started
-Open `index.html` or visit `landing.html` for the marketing page.
+Open `index.html` to use the app.
+Visit `landing.html` for the marketing page.
 
-## Building Native Apps (Capacitor)
-
-```bash
-npm install @capacitor/core @capacitor/cli
-npx cap init
-npx cap add ios
-npx cap add android
-npx cap sync
-npx cap open ios
-npx cap open android
-```
+## Building Native Apps
+See previous README or run the Capacitor commands.
