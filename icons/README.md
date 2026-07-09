@@ -1,2 +1,7 @@
-Add your 192x192 and 512x512 PNG icons here for PWA and app stores.
-You can generate them using https://realfavicongenerator.net/ or similar tools.
+Add your final 192x192 and 512x512 PNG icons here.
+
+Recommended tools:
+- https://realfavicongenerator.net/
+- Export from Figma or Adobe Illustrator
+
+Current SVGs are placeholders for development.
